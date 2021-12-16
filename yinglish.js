@@ -311,3 +311,7 @@ function walkTheDOM(node, func) {
 }
 
 const sleep = (delay) => new Promise((resolve) => setTimeout(resolve, delay))
+
+setTimeout(function(){
+    yinglish_setup();
+}, 1000);
