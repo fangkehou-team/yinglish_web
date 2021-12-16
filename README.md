@@ -16,7 +16,7 @@
 
 
 
-具体的使用效果可以参考 [https://lab.fangkehou.eu.org/yinglish/test.html](https://lab.fangkehou.eu.org/yinglish/test.html)
+具体的使用效果可以参考 [https://lab.fangkehou.eu.org/yinglish_web/test.html](https://lab.fangkehou.eu.org/yinglish_web/test.html)
 
 
 
